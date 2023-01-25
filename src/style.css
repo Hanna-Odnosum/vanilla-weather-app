@@ -8,9 +8,10 @@ body {
 }
 
 .vanilla-weather-app {
-  padding: 20px;
+  background-image: url("http://apimondia2013.org.ua/template/img/header-home-page-bg.jpg");
+  padding: 80px;
   border: 1px solid #dadde1;
-  border-radius: 5px;
+  border-radius: 15px;
 }
 
 .overview {
@@ -52,20 +53,20 @@ body {
 }
 
 .weather-forecast-date {
-  font-size: 16px;
-  opacity: 0.5;
+  font-size: 25px;
+  opacity: 0.7;
 }
 
 .weather-forecast-temperature-min {
-  opacity: 0.5;
+  opacity: 0.6;
 }
 
 .weather-forecast-temperature {
-  font-size: 13px;
+  font-size: 20px;
 }
 
 h1 {
-  color: #878787;
+  color: #2d2727;
   font-size: 24px;
   font-weight: 100;
   line-height: 28px;
@@ -81,8 +82,8 @@ li {
   list-style: none;
   margin: 0;
   padding: 0;
-  color: rgb(135, 135, 135);
-  font-size: 16px;
+  color: #2d2727;
+  font-size: 20px;
   font-weight: 100;
   line-height: 19px;
 }
